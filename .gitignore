@@ -1,0 +1,8 @@
+# данные с платформы и рабочие файлы
+data/*.csv
+.venv/
+__pycache__/
+*.partial.csv
+logs/
+ext/*/
+!ext/rdap_bootstrap.json
